@@ -13,7 +13,10 @@ Use at your leisure and enjoy the simply nature of the application.
 - [Questions](#questions)
         
 ## Installation
-Navigate to [JATE](linkhere) and click the install button in the top left corner. Application will then be installed on the local system.
+Deployed Site linked below!
+
+
+Navigate to [JATE](https://jate-editor-of-the-texts-14f41023024f.herokuapp.com/) and click the install button in the top left corner. Application will then be installed on the local system.
         
 ## Usage
 Text editor
